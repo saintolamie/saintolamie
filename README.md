@@ -4,7 +4,7 @@
 - 💞️ I’m always available for collaboration ...
 
 - 🖥️ You can get intouch with me through ...
-* <a href="https://facebook.com/emma.olamie"> Facebook </a>
+- <a href="https://facebook.com/emma.olamie"> Facebook </a>
 - <a href="https://instagram.com/@saintolamie"> Instagram </a>
 - <a href="https://wa.me/+2349168033663"> Whatsapp </a>
 <!---

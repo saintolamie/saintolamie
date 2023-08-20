@@ -4,8 +4,9 @@
 - 💞️ I’m always available for collaboration ...
 
 - 🖥️ You can get intouch with me through ...
-<a href="http://facebook.com/emma.olamie"> Facebook </a>
-<a href="http://instagram.com/@saintolamie"> Instagram </a>
+* <a href="http://facebook.com/emma.olamie"> Facebook </a>
+- <a href="http://instagram.com/@saintolamie"> Instagram </a>
+<br>
 <a href="http://facebook.com/emma.olamie"> Whatsapp </a>
 <!---
 saintolamie/saintolamie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
